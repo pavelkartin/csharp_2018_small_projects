@@ -1,0 +1,12 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\bin\Debug\ukol_N.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\bin\Debug\ukol_N.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\bin\Debug\ukol_N.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\obj\Debug\ukol_N.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\obj\Debug\ukol_N.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\obj\Debug\ukol_N.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\obj\Debug\ukol_N.csproj.GenerateResource.Cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\obj\Debug\ukol_N.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N\ukol_N\obj\Debug\ukol_N.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N (celkova cena)\ukol_N\bin\Debug\ukol_N.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N (celkova cena)\ukol_N\obj\Debug\ukol_N.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_N (celkova cena)\ukol_N\obj\Debug\ukol_N.pdb

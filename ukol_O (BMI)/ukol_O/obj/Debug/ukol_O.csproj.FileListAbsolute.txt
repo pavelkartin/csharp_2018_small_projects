@@ -1,0 +1,9 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O\ukol_O\bin\Debug\ukol_O.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O\ukol_O\bin\Debug\ukol_O.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O\ukol_O\bin\Debug\ukol_O.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O\ukol_O\obj\Debug\ukol_O.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O\ukol_O\obj\Debug\ukol_O.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O\ukol_O\obj\Debug\ukol_O.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O (BMI)\ukol_O\bin\Debug\ukol_O.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O (BMI)\ukol_O\obj\Debug\ukol_O.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_O (BMI)\ukol_O\obj\Debug\ukol_O.pdb

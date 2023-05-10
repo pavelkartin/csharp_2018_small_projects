@@ -1,0 +1,18 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\bin\Debug\ukol_M.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\bin\Debug\ukol_M.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\bin\Debug\ukol_M.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\obj\Debug\ukol_M.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\obj\Debug\ukol_M.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\obj\Debug\ukol_M.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\obj\Debug\ukol_M.csproj.GenerateResource.Cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\obj\Debug\ukol_M.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M\ukol_M\obj\Debug\ukol_M.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\bin\Debug\ukol_M.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\obj\Debug\ukol_M.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\obj\Debug\ukol_M.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\bin\Debug\ukol_M.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\bin\Debug\ukol_M.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\obj\Debug\ukol_M.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\obj\Debug\ukol_M.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\obj\Debug\ukol_M.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_M (sport)\ukol_M\obj\Debug\ukol_M.csproj.GenerateResource.Cache
