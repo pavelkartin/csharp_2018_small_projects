@@ -1,0 +1,5 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_G\ukol_G\bin\Debug\ukol_G.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_G\ukol_G\bin\Debug\ukol_G.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_G\ukol_G\bin\Debug\ukol_G.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_G\ukol_G\obj\Debug\ukol_G.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_G\ukol_G\obj\Debug\ukol_G.pdb
