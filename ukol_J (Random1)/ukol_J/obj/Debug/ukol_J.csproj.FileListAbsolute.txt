@@ -1,0 +1,9 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J\ukol_J\bin\Debug\ukol_J.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J\ukol_J\bin\Debug\ukol_J.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J\ukol_J\bin\Debug\ukol_J.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J\ukol_J\obj\Debug\ukol_J.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J\ukol_J\obj\Debug\ukol_J.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J\ukol_J\obj\Debug\ukol_J.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J (Random1)\ukol_J\bin\Debug\ukol_J.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J (Random1)\ukol_J\obj\Debug\ukol_J.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_J (Random1)\ukol_J\obj\Debug\ukol_J.pdb
