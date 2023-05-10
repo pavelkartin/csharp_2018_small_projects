@@ -1,0 +1,20 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\bin\Debug\ukol_E.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\bin\Debug\ukol_E.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\bin\Debug\ukol_E.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\obj\Debug\ukol_E.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\obj\Debug\ukol_E.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\obj\Debug\ukol_E.csproj.GenerateResource.Cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\obj\Debug\ukol_E.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\obj\Debug\ukol_E.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_E\ukol_E\obj\Debug\ukol_E.csprojResolveAssemblyReference.cache
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\bin\Debug\ukol_E.exe.config
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\bin\Debug\ukol_E.exe
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\bin\Debug\ukol_E.pdb
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.csproj.AssemblyReference.cache
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.csproj.SuggestedBindingRedirects.cache
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.Form1.resources
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.Properties.Resources.resources
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.csproj.GenerateResource.cache
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.csproj.CoreCompileInputs.cache
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.exe
+F:\Школа\C#\maturita\ukoly\ukol_E (animace ctverec)\ukol_E\obj\Debug\ukol_E.pdb

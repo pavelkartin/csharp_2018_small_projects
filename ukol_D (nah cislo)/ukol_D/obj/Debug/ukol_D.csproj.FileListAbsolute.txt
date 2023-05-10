@@ -1,0 +1,18 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\bin\Debug\ukol_D.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\bin\Debug\ukol_D.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\bin\Debug\ukol_D.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\obj\Debug\ukol_D.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\obj\Debug\ukol_D.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\obj\Debug\ukol_D.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\obj\Debug\ukol_D.csproj.GenerateResource.Cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\obj\Debug\ukol_D.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D\ukol_D\obj\Debug\ukol_D.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\bin\Debug\ukol_D.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\obj\Debug\ukol_D.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\obj\Debug\ukol_D.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\bin\Debug\ukol_D.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\bin\Debug\ukol_D.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\obj\Debug\ukol_D.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\obj\Debug\ukol_D.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\obj\Debug\ukol_D.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_D (nah cislo)\ukol_D\obj\Debug\ukol_D.csproj.GenerateResource.Cache
