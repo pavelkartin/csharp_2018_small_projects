@@ -1,0 +1,21 @@
+D:\Programs\C#\ukol_A\ukol_A\bin\Debug\ukol_A.exe.config
+D:\Programs\C#\ukol_A\ukol_A\bin\Debug\ukol_A.exe
+D:\Programs\C#\ukol_A\ukol_A\bin\Debug\ukol_A.pdb
+D:\Programs\C#\ukol_A\ukol_A\obj\Debug\ukol_A.csprojResolveAssemblyReference.cache
+D:\Programs\C#\ukol_A\ukol_A\obj\Debug\ukol_A.Form1.resources
+D:\Programs\C#\ukol_A\ukol_A\obj\Debug\ukol_A.Properties.Resources.resources
+D:\Programs\C#\ukol_A\ukol_A\obj\Debug\ukol_A.csproj.GenerateResource.Cache
+D:\Programs\C#\ukol_A\ukol_A\obj\Debug\ukol_A.exe
+D:\Programs\C#\ukol_A\ukol_A\obj\Debug\ukol_A.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\bin\Debug\ukol_A.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\obj\Debug\ukol_A.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\obj\Debug\ukol_A.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\bin\Debug\ukol_A.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\bin\Debug\ukol_A.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\obj\Debug\ukol_A.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\obj\Debug\ukol_A.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\obj\Debug\ukol_A.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A\ukol_A\obj\Debug\ukol_A.csproj.GenerateResource.Cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A (hledani a)\ukol_A\bin\Debug\ukol_A.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A (hledani a)\ukol_A\obj\Debug\ukol_A.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_A (hledani a)\ukol_A\obj\Debug\ukol_A.pdb

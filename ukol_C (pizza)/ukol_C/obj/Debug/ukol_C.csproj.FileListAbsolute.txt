@@ -1,0 +1,18 @@
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\bin\Debug\ukol_C.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\bin\Debug\ukol_C.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\bin\Debug\ukol_C.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\obj\Debug\ukol_C.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\obj\Debug\ukol_C.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\obj\Debug\ukol_C.csproj.GenerateResource.Cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\obj\Debug\ukol_C.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\obj\Debug\ukol_C.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C\ukol_C\obj\Debug\ukol_C.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\bin\Debug\ukol_C.exe.config
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\obj\Debug\ukol_C.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\obj\Debug\ukol_C.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\bin\Debug\ukol_C.exe
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\bin\Debug\ukol_C.pdb
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\obj\Debug\ukol_C.csprojResolveAssemblyReference.cache
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\obj\Debug\ukol_C.Form1.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\obj\Debug\ukol_C.Properties.Resources.resources
+F:\Школа\IKT\C#\maturita\ukoly\ukol_C (pizza)\ukol_C\obj\Debug\ukol_C.csproj.GenerateResource.Cache
